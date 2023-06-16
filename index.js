@@ -25,3 +25,5 @@ function updateEmployeeWithKeyAndValue(employee, key, value){
     delete employee[key];
     return employee;
   }
+   
+  console.log(destructivelyDeleteFromEmployeeByKey)
